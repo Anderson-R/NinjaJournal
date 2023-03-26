@@ -15,6 +15,9 @@ Cargo.lock
 /target
 
 # dev
-
-/tmp
 /.vscode
+
+# user
+/.tmp
+/.entries
+/.config
